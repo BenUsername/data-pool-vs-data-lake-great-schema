@@ -2,6 +2,9 @@
 
 This website provides comprehensive information about data pools vs data lakes, including key differences, use cases, and implementation considerations.
 
+## Live Website
+**URL**: https://data-pool-vs-data-lake-great-schema.vercel.app/
+
 ## Features
 
 - Detailed comparison of data pools and data lakes
